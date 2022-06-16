@@ -30,7 +30,7 @@ Buka command prompt (gitbash) lalu arahkan ke folder htdocs (ada didalam folder 
 
 Setelah itu ketikan:
 ```
-git clone https://github.com/andraryandra/Laravel-8---Ujian-Online.git
+git clone https://github.com/aurarindatama01/proyek3.git
 ```
 
 Tunggu sampai file selesai di clone ke folder htdocs server Anda, lalu masuk ke folder <b>Laravel-8---Ujian-Online</b> dengan mengetikan (```cd Laravel-8---Ujian-Online```) pada command prompt (gitbash) Anda, lalu ketikan :
@@ -70,4 +70,4 @@ Untuk login sebagai Siswa Sekolah silahkan gunakan username: <b>siswaMTS1</b>, p
 
 Aplikasi ini bersifat terbuka, siapapun dipersilahkan untuk menjadi kontributor untuk meningkatkan kualitas aplikasi ini.
 
-Buat yang telah berhasil menggunakan, jangan lupa untuk kasih bintang ya supaya aplikasi kita ini semakin dikenal luas dan membawa manfaat lebih banyak lagi bagi dunia pendidikan kita.
+Buat yang telah berhasil menggunakan, jangan lupa untuk kasih bintang ya supaya aplikasi kita ini semakin dikenal luas dan membawa manfaat lebih banyak lagi bagi dunia pendidikan kitad.
